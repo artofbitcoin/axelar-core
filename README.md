@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce dépôt est accompagné d un parcours pédagogique en français dans [docs/fr/](./docs/fr/), consacré à Axelar Core, aux messages interchaînes et à la validation du réseau.
+
 # axelar-core
 
 The axelar-core app based on the Cosmos SDK is the main application of the axelar network. This repository is used to
